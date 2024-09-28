@@ -31,7 +31,7 @@ jieba_fast
 jieba
 LangSegment>=0.3.1
 Faster_Whisper
-fastapi 
+fastapi==0.112.1
 uvicorn
 wordsegment
 srt
